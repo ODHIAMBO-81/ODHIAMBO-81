@@ -6,6 +6,9 @@
 - 📫 How to reach me: _reaganodhiambo36@gmail.com_
 - 😄 Pronouns: ***His/Him***
 - ⚡ Fun fact: ***Analyzing football and watching highlights ⚽⚽***
+
+-About me: ***Am passionante about programming, currently exploring web development *** 
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reaganodhiambo36@gmail.com) 
 # 💻 Tech Stack:
