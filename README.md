@@ -5,7 +5,7 @@
 - 💬 Ask me about ***Getting started with web development***
 - 📫 How to reach me: _reaganodhiambo36@gmail.com_
 - 😄 Pronouns: ***His/Him***
-- ⚡ Fun fact: ***Analyzing football and watching highlights ⚽⚽***
+- ⚡ Fun fact: ***creating website***
 
 -About me: ***Am passionante about programming, currently exploring web development *** 
 
